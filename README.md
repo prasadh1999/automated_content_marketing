@@ -17,7 +17,7 @@ This project is designed for beginners and includes a placeholder for integratin
 
 Follow these steps to get the application running on your local machine.
 
-### 1. Prerequisites
+### 1. Prerequisites 
 
 - Python 3.7+ installed on your system.
 - `pip` (Python's package installer).
